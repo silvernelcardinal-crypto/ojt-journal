@@ -17,6 +17,7 @@ A daily log of my work immersion. Every entry shows what I did, what I learned, 
 | 7 | Oct 20, 2026 | Building the Chatbot Widget | [day-07-2026-10-20.md](days/day-07-2026-10-20.md) |
 | 8 | Oct 21, 2026 | AI API and Serverless Function | [day-08-2026-10-21.md](days/day-08-2026-10-21.md) |
 | 9 | Oct 22, 2026 | JavaScript Practice | [day-09-2026-10-22.md](days/day-09-2026-10-22.md) |
+| 10 | Oct 23, 2026 | JavaScript Practice | [day-10-2026-10-23.md](days/day-10-2026-10-23.md) |
 
 ## 🔁 How I keep this updated
 
