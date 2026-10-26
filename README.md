@@ -18,6 +18,7 @@ A daily log of my work immersion. Every entry shows what I did, what I learned, 
 | 8 | Oct 21, 2026 | AI API and Serverless Function | [day-08-2026-10-21.md](days/day-08-2026-10-21.md) |
 | 9 | Oct 22, 2026 | JavaScript Practice | [day-09-2026-10-22.md](days/day-09-2026-10-22.md) |
 | 10 | Oct 23, 2026 | JavaScript Practice | [day-10-2026-10-23.md](days/day-10-2026-10-23.md) |
+| 11 | Oct 26, 2026 | JavaScript Practice | [day-11-2026-10-26.md](days/day-11-2026-10-26.md) |
 
 ## 🔁 How I keep this updated
 
