@@ -21,6 +21,7 @@ A daily log of my work immersion. Every entry shows what I did, what I learned, 
 | 11 | Oct 26, 2026 | JavaScript Practice | [day-11-2026-10-26.md](days/day-11-2026-10-26.md) |
 | 12 | Oct 27, 2026 | JavaScript Practice | [day-12-2026-10-27.md](days/day-12-2026-10-27.md) |
 | 13 | Oct 28, 2026 | JavaScript Practice | [day-13-2026-10-28.md](days/day-13-2026-10-28.md) |
+| 14 | Oct 29, 2026 | JavaScript Practice | [day-14-2026-10-29.md](days/day-14-2026-10-29.md) |
 
 ## 🔁 How I keep this updated
 
